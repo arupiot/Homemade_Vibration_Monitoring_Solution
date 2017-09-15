@@ -14,6 +14,7 @@ readWritetoSD_interrupt - Reads Z accerleration data and only writes to SD card 
 
 # To do
 Enable more than 99 filenames to be created
+
 Take into account DC offset for triggering
 
 Created by Katie.Lampl@arup.com
