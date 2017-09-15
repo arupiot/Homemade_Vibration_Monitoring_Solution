@@ -10,3 +10,10 @@ readWritetoSD_stripped - Reads Z acceleration and writes only Z acceleration to 
 
 readWritetoSD_interrupt - Reads Z accerleration data and only writes to SD card when acceleration exceeds a certain value
 
+'readWritetoSD_interrupt' is the script to be used.
+
+# To do
+Enable more than 99 filenames to be created
+Take into account DC offset for triggering
+
+Created by Katie.Lampl@arup.com
